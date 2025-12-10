@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Emotions",
+  "base_artist": "MAN WITH A MISSION",
+  "createdAt": "2025-12-10T03:56:31.975835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slime Emotions",
+      "artist": "YNW Bslime",
+      "has_synced": true,
+      "path": "select/01_Slime_Emotions_YNW_Bslime.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mixed Emotions",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/02_Mixed_Emotions_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Emotions",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/03_Emotions_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Emotions",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_Emotions_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mixed Emotions",
+      "artist": "Chase & Status feat. Clementine Douglas",
+      "has_synced": true,
+      "path": "select/05_Mixed_Emotions_Chase_&_Status_feat._Clementine_Douglas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mixed Emotions",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/06_Mixed_Emotions_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(Let's Put Our) Emotions In Motion",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/07_(Let's_Put_Our)_Emotions_In_Motion_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Divine Emotions",
+      "artist": "Narada Michael Walden",
+      "has_synced": true,
+      "path": "select/08_Divine_Emotions_Narada_Michael_Walden.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Divine Emotions",
+      "artist": "Narada",
+      "has_synced": true,
+      "path": "select/09_Divine_Emotions_Narada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Emotions",
+      "artist": "Katy B",
+      "has_synced": true,
+      "path": "select/10_Emotions_Katy_B.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Emotions Away",
+      "artist": "4 Strings feat. Carol Lee",
+      "has_synced": false,
+      "path": "select/11_Emotions_Away_4_Strings_feat._Carol_Lee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Emotions Away",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/12_Emotions_Away_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "EMOTIONS",
+      "artist": "Cashmere Cat",
+      "has_synced": true,
+      "path": "select/13_EMOTIONS_Cashmere_Cat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Without Emotions",
+      "artist": "Combichrist",
+      "has_synced": true,
+      "path": "select/14_Without_Emotions_Combichrist.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Your Emotions",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/15_Your_Emotions_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Slave To My Emotions",
+      "artist": "Kristen Vigard",
+      "has_synced": false,
+      "path": "select/16_Slave_To_My_Emotions_Kristen_Vigard.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Flattening of Emotions",
+      "artist": "Death",
+      "has_synced": true,
+      "path": "select/17_Flattening_of_Emotions_Death.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Emotions",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_01_Emotions_MAN_WITH_A_MISSION.txt"
+    }
+  ]
+}
